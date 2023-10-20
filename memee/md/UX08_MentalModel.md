@@ -1,6 +1,7 @@
-# User Mental Model สำคัญยังไงในการออกแบบ Digital Product ?
+# UX09 User Mental Model
 ---
 
+สำคัญยังไงในการออกแบบ Digital Product ?
 ### "การที่แอปใช้ยาก เกิดจาก User งงเอง หรือเป็นเพราะการออกแบบ"
 ### อีกหนึ่งปัญหาจาก User ที่ทีมพัฒนา Produt ห้ามมองข้าม
 
