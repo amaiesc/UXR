@@ -1,4 +1,4 @@
-# UX09 User Mental Model
+# UX 09 User Mental Model
 ---
 
 สำคัญยังไงในการออกแบบ Digital Product ?
